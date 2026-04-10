@@ -8,15 +8,13 @@
 I'm a developer who loves building meaningful applications. Currently focused on **Flutter** and **Dart**.
 
 ### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,html,css,js,ts,react,nextjs,nodejs,mysql,sqlite" />
-</p>
+![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,html,css,js,ts,react,nextjs,nodejs,mysql,sqlite)
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faturrahman82&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=faturrahman82&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faturrahman82&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=faturrahman82&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ### 🎮 Contribution Snake
