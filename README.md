@@ -25,7 +25,7 @@ I'm a passionate **Web Programmer** and **Flutter Developer** with a keen eye fo
 </picture>
 
 ### 🛠️ Tech Stack
-![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,html,css,js,ts,react,nextjs,nodejs,mysql,sqlite,figma,ps,ai)
+![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,html,css,js,ts,react,nextjs,nodejs,mysql,sqlite,figma)
 
 ### 📊 GitHub Stats
 <p align="center">
