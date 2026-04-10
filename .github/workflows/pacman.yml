@@ -16,8 +16,6 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      - uses: actions/checkout@v3
-      
       - name: generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
@@ -28,5 +26,7 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          # Tambahkan ini agar file lama (snake) terhapus dari branch output
+          keep_history: false 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
