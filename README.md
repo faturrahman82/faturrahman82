@@ -5,7 +5,9 @@
 </p>
 
 ### 💫 About Me
-I'm a developer who loves building meaningful applications. Currently focused on **Flutter** and **Dart**.
+I am a developer who loves building applications by writing elegant code and leveraging the power of modern technology. Rather than focusing on pixel-perfect design, I am deeply fascinated by the logic, architecture, and the intersection between code and artificial intelligence.
+
+I embrace the era of AI-driven development. I frequently work with AI agents that assist me in constructing complex systems—a workflow often referred to as 'vibe coding'. This allows me to focus on high-level problem solving, rapid prototyping, and delivering robust backend or full-stack integrations.
 
 ### 🛠️ Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,html,css,js,ts,react,nextjs,nodejs,mysql,sqlite)
