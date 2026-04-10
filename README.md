@@ -17,11 +17,11 @@ I'm a passionate **Web Programmer** and **Flutter Developer** with a keen eye fo
 <a href="https://github.com/faturrahman82" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-### 🎮 Contribution Snake
+### 🎮 Pac-man Contribution Maze
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faturrahman82/faturrahman82/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faturrahman82/faturrahman82/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/faturrahman82/faturrahman82/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faturrahman82/faturrahman82/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faturrahman82/faturrahman82/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/faturrahman82/faturrahman82/output/pacman-contribution-graph.svg">
 </picture>
 
 ### 🛠️ Tech Stack
