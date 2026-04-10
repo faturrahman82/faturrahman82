@@ -1,16 +1,24 @@
 # Hi there, I'm Maul (faturrahman82) 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Mobile+Developer;Flutter+Enthusiast;Building+Awesome+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Web+Programmer;Flutter+Developer;UI/UX+Designer;Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 ### 💫 About Me
-I am a developer who loves building applications by writing elegant code and leveraging the power of modern technology. Rather than focusing on pixel-perfect design, I am deeply fascinated by the logic, architecture, and the intersection between code and artificial intelligence.
+I'm a passionate **Web Programmer** and **Flutter Developer** with a keen eye for **UI/UX Design**. I love building applications that are not only functional but also visually stunning.
 
-I embrace the era of AI-driven development. I frequently work with AI agents that assist me in constructing complex systems—a workflow often referred to as 'vibe coding'. This allows me to focus on high-level problem solving, rapid prototyping, and delivering robust backend or full-stack integrations.
+📍 **Dinoyo, Malang, Indonesia**
+
+### 🌐 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/maulvi-ilmullah-faturrahman-al-afghani-59704b268" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/maulvifttr_eeee/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://portofolio-v4-37fp.vercel.app/id/contact" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-255E00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/faturrahman82" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 ### 🛠️ Tech Stack
-![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,html,css,js,ts,react,nextjs,nodejs,mysql,sqlite)
+![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,html,css,js,ts,react,nextjs,nodejs,mysql,sqlite,figma,ps,ai)
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -28,7 +36,5 @@ I embrace the era of AI-driven development. I frequently work with AI agents tha
 
 ---
 <p align="center">
-  <a href="https://instagram.com/maulvfttr_eeee">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  <i>"Building meaningful things, one commit at a time."</i>
 </p>
