@@ -17,6 +17,13 @@ I'm a passionate **Web Programmer** and **Flutter Developer** with a keen eye fo
 <a href="https://github.com/faturrahman82" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
+### 🎮 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faturrahman82/faturrahman82/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faturrahman82/faturrahman82/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/faturrahman82/faturrahman82/output/github-contribution-grid-snake.svg">
+</picture>
+
 ### 🛠️ Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,html,css,js,ts,react,nextjs,nodejs,mysql,sqlite,figma,ps,ai)
 
@@ -27,12 +34,6 @@ I'm a passionate **Web Programmer** and **Flutter Developer** with a keen eye fo
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=faturrahman82&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-### 🎮 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faturrahman82/faturrahman82/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faturrahman82/faturrahman82/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/faturrahman82/faturrahman82/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 <p align="center">
