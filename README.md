@@ -1,4 +1,4 @@
-# Hi there, I'm Maul (faturrahman82) 👋
+# Hi there, I'm Maulvi Ilmullah Faturrahman Al Afghani👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Web+Programmer;Flutter+Developer;UI/UX+Designer;Tech+Enthusiast" alt="Typing SVG" />
