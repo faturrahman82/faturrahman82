@@ -27,6 +27,18 @@ I'm a passionate **Web Programmer** and **Flutter Developer** with a keen eye fo
 ### 🛠️ Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,html,css,js,ts,react,nextjs,nodejs,mysql,sqlite,figma)
 
+### 📓 Project Pilihan
+<p align="center">
+  <a href="https://github.com/faturrahman82/Today-s-Notes">
+    <img src="https://raw.githubusercontent.com/faturrahman82/Today-s-Notes/main/assets/jurnal-icon.svg" alt="Ikon Jurnal Hari Ini" width="112" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/faturrahman82/Today-s-Notes"><strong>Jurnal Hari Ini</strong></a><br>
+  Aplikasi Flutter untuk menulis satu kalimat setiap hari, melihat mood, dan membaca kembali pola dari catatan pribadi.
+</p>
+
 ### 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/faturrahman82?tab=followers">
