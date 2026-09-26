@@ -27,17 +27,38 @@ I'm a passionate **Web Programmer** and **Flutter Developer** with a keen eye fo
 ### 🛠️ Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,html,css,js,ts,react,nextjs,nodejs,mysql,sqlite,figma)
 
-### 📓 Project Pilihan
-<p align="center">
-  <a href="https://github.com/faturrahman82/Today-s-Notes">
-    <img src="https://raw.githubusercontent.com/faturrahman82/Today-s-Notes/main/assets/jurnal-icon.svg" alt="Ikon Jurnal Hari Ini" width="112" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/faturrahman82/Today-s-Notes"><strong>Jurnal Hari Ini</strong></a><br>
-  Aplikasi Flutter untuk menulis satu kalimat setiap hari, melihat mood, dan membaca kembali pola dari catatan pribadi.
-</p>
+### ✦ Project Pilihan
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🎤 InterviewMate</h4>
+      <p>Simulasi wawancara kerja dengan pertanyaan dan feedback dari Gemini AI.</p>
+      <a href="https://github.com/faturrahman82/InterviewMate">
+        <img src="https://img.shields.io/badge/Next.js-TypeScript-111827?style=flat-square&logo=next.js" alt="InterviewMate Next.js TypeScript" />
+      </a>
+      <br><br>
+      <a href="https://github.com/faturrahman82/InterviewMate">Lihat repository</a>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🖥️ Portfolio V4</h4>
+      <p>Portfolio developer dengan Next.js, TypeScript, Tailwind CSS, dan Framer Motion.</p>
+      <a href="https://github.com/faturrahman82/Portofolio_V4">
+        <img src="https://img.shields.io/badge/Next.js-TypeScript-111827?style=flat-square&logo=next.js" alt="Portfolio V4 Next.js TypeScript" />
+      </a>
+      <br><br>
+      <a href="https://github.com/faturrahman82/Portofolio_V4">Lihat repository</a>
+    </td>
+    <td width="33%" valign="top">
+      <h4>📓 Jurnal Hari Ini</h4>
+      <p>Jurnal Flutter untuk satu kalimat per hari, mood, tema, refleksi, dan streak.</p>
+      <a href="https://github.com/faturrahman82/Today-s-Notes">
+        <img src="https://raw.githubusercontent.com/faturrahman82/Today-s-Notes/main/assets/jurnal-icon.svg" alt="Ikon Jurnal Hari Ini" width="48" />
+      </a>
+      <br><br>
+      <a href="https://github.com/faturrahman82/Today-s-Notes">Lihat repository</a>
+    </td>
+  </tr>
+</table>
 
 ### 📊 GitHub Stats
 <p align="center">
