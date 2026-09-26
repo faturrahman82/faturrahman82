@@ -29,9 +29,21 @@ I'm a passionate **Web Programmer** and **Flutter Developer** with a keen eye fo
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faturrahman82&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faturrahman82&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+  <a href="https://github.com/faturrahman82?tab=followers">
+    <img src="https://img.shields.io/github/followers/faturrahman82?style=for-the-badge&label=Followers&color=5A6D5B" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/faturrahman82/Today-s-Notes">
+    <img src="https://img.shields.io/github/stars/faturrahman82/Today-s-Notes?style=for-the-badge&label=Today%27s%20Notes%20stars&color=C96D4B" alt="Today’s Notes stars" />
+  </a>
+  <a href="https://github.com/faturrahman82/Today-s-Notes/commits/main">
+    <img src="https://img.shields.io/github/commit-activity/y/faturrahman82/Today-s-Notes?style=for-the-badge&label=Commits&color=756B61" alt="Today’s Notes commits" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/faturrahman82/Today-s-Notes/commits/main">
+    <img src="https://img.shields.io/github/last-commit/faturrahman82/Today-s-Notes?style=flat-square&label=Last%20commit" alt="Last commit" />
+  </a>
 </p>
 
 
